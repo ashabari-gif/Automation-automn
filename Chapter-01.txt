@@ -173,6 +173,7 @@ There are following of wait in webdriver:
 				.withTimeOut(60,TimeUnit.Seconds)
 				.pollingEvery(10,TimeUnit.Secords)
 -> Application (program)
+welcome to world
 
 
 
